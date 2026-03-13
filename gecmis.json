@@ -1,0 +1,534 @@
+[
+    {
+        "tarih": "2025-12-01 10:17",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "34 ABC 103",
+        "musteri": "Rabiya Ünlü",
+        "baslangic": "01-12-2025",
+        "bitis": "03-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 1640
+    },
+    {
+        "tarih": "2025-12-03 17:15",
+        "islem": "İade",
+        "plaka": "34 ABC 103",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-01 10:47",
+        "islem": "Kiralama (5 Gün)",
+        "plaka": "34 ABC 104",
+        "musteri": "Oğuzhan Yılmaz",
+        "baslangic": "01-12-2025",
+        "bitis": "06-12-2025",
+        "gun_sayisi": 5,
+        "ucret": 6000
+    },
+    {
+        "tarih": "2025-12-02 10:06",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "35 GHI 303",
+        "musteri": "Nesrin Güler",
+        "baslangic": "02-12-2025",
+        "bitis": "04-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 6800
+    },
+    {
+        "tarih": "2025-12-03 10:43",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "34 XYZ 201",
+        "musteri": "Volkan Öz",
+        "baslangic": "02-12-2025",
+        "bitis": "04-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 9000
+    },
+    {
+        "tarih": "2025-12-04 17:47",
+        "islem": "İade",
+        "plaka": "35 GHI 303",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-04 17:06",
+        "islem": "İade",
+        "plaka": "34 XYZ 201",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-05 10:37",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "34 ABC 102",
+        "musteri": "Mehmet Ersoy",
+        "baslangic": "05-12-2025",
+        "bitis": "08-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 2700
+    },
+    {
+        "tarih": "2025-12-05 10:05",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "06 XYZ 214",
+        "musteri": "Zehra Keleş",
+        "baslangic": "05-12-2025",
+        "bitis": "08-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 4950
+    },
+    {
+        "tarih": "2025-12-05 10:27",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "06 DEF 202",
+        "musteri": "Selim Kılıç",
+        "baslangic": "05-12-2025",
+        "bitis": "07-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 1400
+    },
+    {
+        "tarih": "2025-12-05 10:02",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "54 XYZ 218",
+        "musteri": "Selim Kılıç",
+        "baslangic": "03-12-2025",
+        "bitis": "05-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 10400
+    },
+    {
+        "tarih": "2025-12-05 17:35",
+        "islem": "İade",
+        "plaka": "54 XYZ 218",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-06 17:01",
+        "islem": "İade",
+        "plaka": "34 ABC 104",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-06 17:12",
+        "islem": "İade",
+        "plaka": "34 ABC 102",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-06 17:45",
+        "islem": "İade",
+        "plaka": "34 GIG 084",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-06 17:41",
+        "islem": "İade",
+        "plaka": "06 DEF 202",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-07 10:14",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "34 ABC 105",
+        "musteri": "Ebru Karaca",
+        "baslangic": "07-12-2025",
+        "bitis": "10-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 3300
+    },
+    {
+        "tarih": "2025-12-08 17:05",
+        "islem": "İade",
+        "plaka": "06 XYZ 214",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-08 17:14",
+        "islem": "İade",
+        "plaka": "34 ABC 105",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-08 10:32",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "07 XYZ 211",
+        "musteri": "Mehmet Ersoy",
+        "baslangic": "08-12-2025",
+        "bitis": "11-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 5100
+    },
+    {
+        "tarih": "2025-12-09 10:12",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "34 ABC 108",
+        "musteri": "Zehra Keleş",
+        "baslangic": "09-12-2025",
+        "bitis": "11-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 4600
+    },
+    {
+        "tarih": "2025-12-09 10:45",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "54 XYZ 212",
+        "musteri": "Mertcan Şahin",
+        "baslangic": "09-12-2025",
+        "bitis": "12-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 4950
+    },
+    {
+        "tarih": "2025-12-10 17:55",
+        "islem": "İade",
+        "plaka": "34 ABC 105",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-10 10:26",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "34 ABC 103",
+        "musteri": "Burcu Erdem",
+        "baslangic": "10-12-2025",
+        "bitis": "12-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 1640
+    },
+    {
+        "tarih": "2025-12-10 10:58",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "16 XYZ 204",
+        "musteri": "Ayşe Korkmaz",
+        "baslangic": "07-12-2025",
+        "bitis": "10-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 7500
+    },
+    {
+        "tarih": "2025-12-11 17:27",
+        "islem": "İade",
+        "plaka": "07 XYZ 211",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-11 17:06",
+        "islem": "İade",
+        "plaka": "34 ABC 108",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-12 17:38",
+        "islem": "İade",
+        "plaka": "54 XYZ 212",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-12 17:12",
+        "islem": "İade",
+        "plaka": "34 ABC 103",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-12 10:09",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "34 ABC 101",
+        "musteri": "Ayşe Korkmaz",
+        "baslangic": "12-12-2025",
+        "bitis": "14-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 1700
+    },
+    {
+        "tarih": "2025-12-12 10:48",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "06 XYZ 220",
+        "musteri": "Ezgi Kurtuluş",
+        "baslangic": "10-12-2025",
+        "bitis": "12-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 1800
+    },
+    {
+        "tarih": "2025-12-13 17:56",
+        "islem": "İade",
+        "plaka": "06 DEF 201",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-14 17:57",
+        "islem": "İade",
+        "plaka": "34 ABC 101",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-14 10:55",
+        "islem": "Kiralama (2 Gün)",
+        "plaka": "34 ABC 106",
+        "musteri": "Selim Kılıç",
+        "baslangic": "14-12-2025",
+        "bitis": "16-12-2025",
+        "gun_sayisi": 2,
+        "ucret": 1760
+    },
+    {
+        "tarih": "2025-12-14 10:29",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "34 XYZ 219",
+        "musteri": "Ali Yavuz",
+        "baslangic": "14-12-2025",
+        "bitis": "18-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 3200
+    },
+    {
+        "tarih": "2025-12-15 17:27",
+        "islem": "İade",
+        "plaka": "35 GHI 301",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-15 10:19",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "06 DEF 203",
+        "musteri": "Gizem Karaca",
+        "baslangic": "15-12-2025",
+        "bitis": "18-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 2940
+    },
+    {
+        "tarih": "2025-12-16 17:49",
+        "islem": "İade",
+        "plaka": "34 ABC 106",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-16 09:47",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "16 JKL 411",
+        "musteri": "Fatih Demir",
+        "baslangic": "16-12-2025",
+        "bitis": "20-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 3040
+    },
+    {
+        "tarih": "2025-12-16 10:58",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "07 XYZ 217",
+        "musteri": "Rabiya Ünlü",
+        "baslangic": "16-12-2025",
+        "bitis": "19-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 10800
+    },
+    {
+        "tarih": "2025-12-17 17:12",
+        "islem": "İade",
+        "plaka": "35 GHI 302",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-18 17:22",
+        "islem": "İade",
+        "plaka": "06 DEF 203",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-18 17:40",
+        "islem": "İade",
+        "plaka": "34 XYZ 219",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-18 09:37",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "06 XYZ 202",
+        "musteri": "Ayşe Korkmaz",
+        "baslangic": "18-12-2025",
+        "bitis": "22-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 20800
+    },
+    {
+        "tarih": "2025-12-19 17:15",
+        "islem": "İade",
+        "plaka": "07 XYZ 217",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-19 09:12",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "34 ABC 109",
+        "musteri": "Volkan Öz",
+        "baslangic": "19-12-2025",
+        "bitis": "23-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 5600
+    },
+    {
+        "tarih": "2025-12-19 09:06",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "06 DEF 202",
+        "musteri": "Selim Kılıç",
+        "baslangic": "19-12-2025",
+        "bitis": "23-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 2800
+    },
+    {
+        "tarih": "2025-12-19 09:24",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "54 GIG 464",
+        "musteri": "Selim Kılıç",
+        "baslangic": "19-12-2025",
+        "bitis": "23-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 6000
+    },
+    {
+        "tarih": "2025-12-19 09:18",
+        "islem": "Kiralama (5 Gün)",
+        "plaka": "35 XYZ 209",
+        "musteri": "Ali Yavuz",
+        "baslangic": "19-12-2025",
+        "bitis": "24-12-2025",
+        "gun_sayisi": 5,
+        "ucret": 21000
+    },
+    {
+        "tarih": "2025-12-20 09:33",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "34 ABC 107",
+        "musteri": "Kemal Aydın",
+        "baslangic": "20-12-2025",
+        "bitis": "24-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 10800
+    },
+    {
+        "tarih": "2025-12-20 09:51",
+        "islem": "Kiralama (7 Gün)",
+        "plaka": "34 GIG 084",
+        "musteri": "Rabiya Ünlü",
+        "baslangic": "20-12-2025",
+        "bitis": "27-12-2025",
+        "gun_sayisi": 7,
+        "ucret": 12600
+    },
+    {
+        "tarih": "2025-12-20 09:36",
+        "islem": "Kiralama (5 Gün)",
+        "plaka": "34 XYZ 207",
+        "musteri": "Gamze Akın",
+        "baslangic": "20-12-2025",
+        "bitis": "25-12-2025",
+        "gun_sayisi": 5,
+        "ucret": 14000
+    },
+    {
+        "tarih": "2025-12-20 09:14",
+        "islem": "Kiralama (4 Gün)",
+        "plaka": "16 XYZ 216",
+        "musteri": "Mertcan Şahin",
+        "baslangic": "20-12-2025",
+        "bitis": "24-12-2025",
+        "gun_sayisi": 4,
+        "ucret": 4400
+    },
+    {
+        "tarih": "2025-12-20 09:03",
+        "islem": "Kiralama (5 Gün)",
+        "plaka": "06 XYZ 220",
+        "musteri": "Ezgi Kurtuluş",
+        "baslangic": "20-12-2025",
+        "bitis": "25-12-2025",
+        "gun_sayisi": 5,
+        "ucret": 4500
+    },
+    {
+        "tarih": "2025-12-21 09:20",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "07 NG 712",
+        "musteri": "Nesrin Güler",
+        "baslangic": "21-12-2025",
+        "bitis": "24-12-2025",
+        "gun_sayisi": 3,
+        "ucret": 21000
+    },
+    {
+        "tarih": "2025-12-21 09:10",
+        "islem": "Kiralama (6 Gün)",
+        "plaka": "06 XYZ 214",
+        "musteri": "Zehra Keleş",
+        "baslangic": "21-12-2025",
+        "bitis": "27-12-2025",
+        "gun_sayisi": 6,
+        "ucret": 9900
+    },
+    {
+        "tarih": "2025-12-22 09:06",
+        "islem": "Kiralama (10 Gün)",
+        "plaka": "06 DEF 204",
+        "musteri": "Ebru Karaca",
+        "baslangic": "22-12-2025",
+        "bitis": "01-01-2026",
+        "gun_sayisi": 10,
+        "ucret": 10000
+    },
+    {
+        "tarih": "2025-12-22 20:46",
+        "islem": "İade",
+        "plaka": "06 DEF 204",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-22 21:32",
+        "islem": "Kiralama (3 Gün)",
+        "plaka": "06 DEF 203",
+        "musteri": "Zehra Yıldız"
+    },
+    {
+        "tarih": "2025-12-22 21:32",
+        "islem": "Kiralama (9 Gün)",
+        "plaka": "06 DEF 201",
+        "musteri": "Deniz Ince"
+    },
+    {
+        "tarih": "2025-12-22 21:33",
+        "islem": "Kiralama (5 Gün)",
+        "plaka": "35 XYZ 215",
+        "musteri": "Ilayda Kuru"
+    },
+    {
+        "tarih": "2025-12-22 21:33",
+        "islem": "İade",
+        "plaka": "54 GIG 464",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-22 21:33",
+        "islem": "İade",
+        "plaka": "16 XYZ 216",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-22 21:33",
+        "islem": "İade",
+        "plaka": "34 XYZ 207",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-22 21:33",
+        "islem": "İade",
+        "plaka": "35 XYZ 209",
+        "musteri": "-"
+    },
+    {
+        "tarih": "2025-12-22 21:33",
+        "islem": "İade",
+        "plaka": "06 XYZ 214",
+        "musteri": "-"
+    }
+]

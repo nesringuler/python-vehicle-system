@@ -23,7 +23,7 @@ def veri_yukle():
 
 def veri_kaydet(arac_listesi):
     with open("data.json","w",indent=3,encoding="utf-8") as f:
-        json.dump(arac_listesi,f,ensure_ascii=False)
+        json.dump(arac_listesi,f,ensure_ascii=False, indent=3)
         # arac listesi json formatina cevrilir ve dosyaya (f) kaydedilir
         #ensure_ascii=False ile turkce karakter kullanimi icin
         #indent=3 json dosyasini hizali sekilde daha okunabilir gosterir
